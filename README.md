@@ -5,10 +5,10 @@ GadgetBadget (GB) is a company who funds innovative projects and help the young 
 
 # Developers
 
-  - [Chethika Dithmal](https://github.com/MilindaRanawaka)
-  - [Ruvan Sirimanna](https://github.com/KavinduLiyanage)
-  - [Thisara perera](https://github.com/nirma03)
-  - [Hirusha danuppriya](https://github.com/Ridmi95)
+  - [Chethika Dithmal](https://github.com/chethika)
+  - [Ruvan Sirimanna](https://github.com/ruwan99)
+  - [Thisara perera](https://github.com/Thisara634)
+  - [Hirusha danuppriya](https://github.com/HirushaDhanupriya)
 
 # Technologies
   * C#
