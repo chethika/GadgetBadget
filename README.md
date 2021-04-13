@@ -11,6 +11,6 @@ GadgetBadget (GB) is a company who funds innovative projects and help the young 
   - [Hirusha danuppriya](https://github.com/HirushaDhanupriya)
 
 #Technology Stack
- RESTful web services: Java – JAX-RS (Jersey) on Tomcat
- DB: MySQL
- Client: A compatible test client
+ RESTful web services: Java – JAX-RS (Jersey) on Tomcat <br>
+ DB: MySQL <br>
+ Client: A compatible test client <br>
