@@ -13,7 +13,7 @@ public class FundingBodies {
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
 
-			// Provide the correct details: DBServer/DBName, user name, passwordd
+			// Provide the correct details: DBServer/DBName, user name, password
 			con = DriverManager.getConnection(
 					"jdbc:mysql://localhost:3306/paf?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC",
 					"root", "");
