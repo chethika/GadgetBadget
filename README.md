@@ -9,3 +9,10 @@ GadgetBadget (GB) is a company who funds innovative projects and help the young 
   - [Ruwan Sirimanna IT19205984](https://github.com/ruwan99)
   - [Thisara perera IT19132488](https://github.com/Thisara634)
   - [Hirusha danuppriya IT19176284](https://github.com/HirushaDhanupriya)
+
+# Web Services
+
+Researcher - IT19205984 Sirimanna N.R.K
+Funding Budies - IT19192260 Dithmal M.G.C
+Product - IT19132488 Perera M.T.L
+Customer - IT19176284 Perera P.H.D
