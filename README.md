@@ -27,7 +27,7 @@ GadgetBadget (GB) is a company who funds innovative projects and help the young 
 
 “GadgetBadget(GB)” is a company who motivates young inventors to build new inventions and allow them to sell the inventions in their online platform.
 
-# 2)We used this technologies to build our project - java JAX-RS(jersy) restful web service on tomcat, mysql as the database and eclipse as the IDE.
+# 2) We used this technologies to build our project - java JAX-RS(jersy) restful web service on tomcat, mysql as the database and eclipse as the IDE.
 
 # 3) How to execute the project?
 Import the gadgetbadget DB then clone the project and after it become cloned by using apache tomcat server the project can be executed.
